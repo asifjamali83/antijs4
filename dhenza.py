@@ -32,10 +32,10 @@ kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ub1c5a71f27b863896e9d44bea857d35b"]
-owner = ["ub1c5a71f27b863896e9d44bea857d35b"]
-admin = ["ub1c5a71f27b863896e9d44bea857d35b"]
-staff = ["ub1c5a71f27b863896e9d44bea857d35b"]
+creator = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+owner = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+admin = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+staff = ["ufe278afdfb3617b8fd9919c9489b9ced"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = ka.getProfile().mid
@@ -50,7 +50,7 @@ Setmain = json.load(Setbot)
 protectcancel = []
 welcome = []
 targets = []
-prohibitedWords = ['Asu', 'Jancuk', 'Tai', 'Kickall', 'Ratakan', 'Cleanse']
+prohibitedWords = ['harami', 'Jancuk', 'kamina', 'Kickall', 'login', 'Cleanse']
 userTemp = {}
 userKicked = []
 msg_dict = {}
@@ -151,7 +151,7 @@ settings = {
 }
 
 wait = {
-    "limit": 2,
+    "limit": 50,
     "owner":{},
     "admin":{},
     "addadmin":False,
@@ -182,9 +182,9 @@ wait = {
     "sticker":False,
     "unsend":True,
     "selfbot":True,
-    "mention":"Masuk say ngitip bacok",
-    "Respontag":"Cuy ngrtag mele..",
-    "welcome":"Wellcome to my Fams",
+    "mention":"Reader Detected",
+    "Respontag":"Pm me if urgent , may be im away..",
+    "welcome":"Wellcome to Lovely group",
     "comment":"Auto like By S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ",
     "comment1":"Auto like By S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ",
     "message":"Ciee nge add kepo ye..\nThanks for add me..\n\nS̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ"
