@@ -14,19 +14,19 @@ import time, random, multiprocessing, sys, json, codecs, threading, glob, re, st
 from gtts import gTTS
 from googletrans import Translator
 
-cl = LINE("")
+cl = LINE("EFn0vVgWCzB8RgTxwird.+IEk+FS2f7J9MrNjsjUC7q.FcF0NFbDGmIxZQmrHws94wSkoMVO61zeVUZmRFO4GT8=")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
-ki = LINE("")
+ki = LINE("EFbs6AZbaUPsBysUlCa8.V9fPQ4Ni715zhNxzTDLx/a.GSFeDr59Ql1uhCbO1q/cHGLktaaf7PkzbMzWLJY/8xw=")
 ki.log("Auth Token : " + str(ki.authToken))
 ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-ka = LINE("")
+ka = LINE("EFhq1qIRktQOB3Df9Z2a.RqXlEuMyCo0SX+f7rAWbUG.FG5AHHuEGOAICGUU+RvVgHfHQdiVyRUIr2olgHOF7Mc=")
 ka.log("Auth Token : " + str(ka.authToken))
 ka.log("Timeline Token : " + str(ka.tl.channelAccessToken))
 
-kc = LINE("")
+kc = LINE("EFVZ0FvCjtYaDoY1bQT4.AI/sqK1rPfDta4o3nrhLba.jZmMqJVD+pvt4U237ozZRXIp7mgpHRa9ZoL+J7b+tcY=")
 kc.log("Auth Token : " + str(kc.authToken))
 kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
