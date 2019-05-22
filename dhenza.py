@@ -2334,7 +2334,7 @@ def bot(op):
                                 ki.sendMessage(msg.to,responsename)
                                 ka.sendMessage(msg.to,responsename)
                                 
-                        elif cmd == "masuk":
+                        elif cmd == "Join":
                          if msg._from in admin:
                            if msg.toType == 2:
                                group = cl.getGroup(to)
@@ -3241,19 +3241,19 @@ def bot(op):
                               spl = msg.text.replace('Skinvite ','')
                               if spl == 'on':
                                   if msg.to in protect["pinv"]:
-                                       msgs = "skinvite has been active"
+                                       msgs = "Skinvite has been active"
                                   else:
                                        protect["pinv"].append(msg.to)
                                        ginfo = cl.getGroup(msg.to)
-                                       msgs = "skurl active\n\nIn group : " +str(ginfo.name)
+                                       msgs = "Skinvite active\n\nIn group : " +str(ginfo.name)
                                   cl.sendMessage(msg.to, "Activated \n\n" + msgs)
                               elif spl == 'off':
                                     if msg.to in protect["pinv"]:
                                          protect["pinv"].remove(msg.to)
                                          ginfo = cl.getGroup(msg.to)
-                                         msgs = "skinvite deactive\nIn group : " +str(ginfo.name)
+                                         msgs = "Skinvite deactive\nIn group : " +str(ginfo.name)
                                     else:
-                                         msgs = "skinvite has been disable"
+                                         msgs = "Skinvite has been disable"
                                     cl.sendMessage(msg.to, "Nonactive\n\n" + msgs)
 
                         elif 'Js ' in msg.text:
