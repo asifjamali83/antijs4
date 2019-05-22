@@ -32,10 +32,10 @@ kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ufe278afdfb3617b8fd9919c9489b9ced"]
-owner = ["ufe278afdfb3617b8fd9919c9489b9ced"]
-admin = ["ufe278afdfb3617b8fd9919c9489b9ced"]
-staff = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+creator = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+owner = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+admin = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+staff = ["u7e99c5b3e4f01c95c104d0993fc41998"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = ka.getProfile().mid
@@ -187,7 +187,7 @@ wait = {
     "welcome":"Wellcome to Lovely group",
     "comment":"Auto like By ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥",
     "comment1":"Auto like By ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥",
-    "message":"Ciee nge add kepo ye..\nThanks for add me..\n\n꧁༺şℎαℎ̿̿ Żαίη࿐➻❥"
+    "message":"╚»★ ᵂᴬᴵᵀᴵᴺᴳ ᶠᴼᴿ ᵂᴵᶠᴵ ˢᴵᴳᴺᴬᴸˢ ★«╝..\nThanks for add me..\n\n꧁༺şℎαℎ̿̿ Żαίη࿐➻❥"
 }
 
 protect = {
@@ -3384,7 +3384,7 @@ def bot(op):
                            	if msg.toType == 2:
                                   ginfo = cl.getGroup(msg.to)
                                   cl.sendMessage(msg.to, "Proses Cleanse....")
-                                  cl.sendMessage(msg.to, "「 silentkiller 」\nmember : " +str(len(ginfo.members)) + " \nFuck you...")
+                                  cl.sendMessage(msg.to, "「 silentkiller 」\nmember : " +str(len(ginfo.members)) + " \nMar Jao...")
                                   G = cl.getGroup(msg.to)
                                   G.preventedJoinByTicket = False
                                   cl.updateGroup(G)
@@ -3495,7 +3495,7 @@ def bot(op):
                         elif cmd == "gas":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               cl.sendMessage(msg.to, "ASSALAMUALAIKUM \nHALLOOO!!! SORRY ROOM KALIAN \n\nKEBANYAKAN ANU\nSILENT DATANG\nMAU SAPU ROOM GJ\nNO COMEND \nNO BAPER \nNO BACOT \nNO DESAH \nNO SPONSOR \nNO HATTERS\nROOM OKEP \nROOM JUDI\nROOM GAJELAS\SIAP KAMI BANTAII \n\n\n\n FUCK YOU...\nKENAPE LU PADA DIEM\nTANGKIS SU JANGAN CUMA NYIMAK\n\n\nDASAR ROOM PEA KAGAK JELAS\nSORRY BOS!!!\nGC LU MAU GUA SITA...!!!\n\n\n SALAM DARI KAMI S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜\n\nHADIR DI ROOM ANDA\n\nRATA GAK RATA YANG PENTING KIBAR \nRATA KAMI SENANG\nGAKRATA TUNGGU KEDATANGAN KAMI LAGI\n\n\n  <<<SLAM CIAK S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜>>> \n\n\n>>>>>>GO!!! <<<<<<\n\n\nCREATOR\n\n<<<<<<<<<<S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜>>>>>>>>>>\n\nhttp://line.me/ti/p/~pxj5094s\nhttp://line.me/ti/p/~dhenz415")
+                               cl.sendMessage(msg.to, "ASSALAMUALAIKUM \nHALLOOO!!! SORRY ROOM KALIAN \n\nKEBANYAKAN ANU\nSILENT DATANG\nMAU SAPU ROOM GJ\nNO COMEND \nNO BAPER \nNO BACOT \nNO DESAH \nNO SPONSOR \nNO HATTERS\nROOM OKEP \nROOM JUDI\nROOM GAJELAS\SIAP KAMI BANTAII \n\n\n\n Mar Jao...\nKENAPE LU PADA DIEM\nTANGKIS SU JANGAN CUMA NYIMAK\n\n\nDASAR ROOM PEA KAGAK JELAS\nSORRY BOS!!!\nGC LU MAU GUA SITA...!!!\n\n\n SALAM DARI KAMI S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜\n\nHADIR DI ROOM ANDA\n\nRATA GAK RATA YANG PENTING KIBAR \nRATA KAMI SENANG\nGAKRATA TUNGGU KEDATANGAN KAMI LAGI\n\n\n  <<<SLAM CIAK S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜>>> \n\n\n>>>>>>GO!!! <<<<<<\n\n\nCREATOR\n\n<<<<<<<<<<S̴̬̦̈͛̈́̇̈́̈́͂͒I̴̡͈͓̖͉̟̲͚̮͚̾͌̂̅̈́̍̀͗̕͝L̴̯̝̣̉͜ͅḚ̵̻͆N̷̡̛͎̗̮̤̩̟̮̏̄́̔̄̀T̵̪̭͇̘̳̚ ̸̲̪̱͒́̂̀ͅK̶̨̟̥͊͑̍̆͌̎Ḯ̸̧̺͖͔̹̞̿͗̚Ļ̶̧̨̫̤͈̖͆͆̈̕̚L̵̖̤͈̜̳̉̽͋͛̈́E̸̡̖̠̦͛͜R̵͖̬̯̞̝̪̳̙̙̋͑̒͊̎̕̚͜>>>>>>>>>>\n\nhttp://line.me/ti/p/~pxj5094s\nhttp://line.me/ti/p/~dhenz415")
                                cl.sendContact(to, mid)
                                cl.sendContact(to, Amid)
                                cl.sendContact(to, Bmid)
