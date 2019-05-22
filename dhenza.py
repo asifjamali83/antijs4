@@ -124,7 +124,7 @@ settings = {
     "changeProfileVideo": False,
     "ChangeVideoProfilevid":{},
     "ChangeVideoProfilePicture":{},
-    "autoJoinTicket":False,
+    "autoJoinTicket":True,
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
         "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
@@ -185,9 +185,9 @@ wait = {
     "mention":"Reader Detected",
     "Respontag":"Pm me if urgent , may be im away..",
     "welcome":"Wellcome to Lovely group",
-    "comment":"Auto like By S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ",
-    "comment1":"Auto like By S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ",
-    "message":"Ciee nge add kepo ye..\nThanks for add me..\n\nS̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ"
+    "comment":"Auto like By ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥",
+    "comment1":"Auto like By ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥",
+    "message":"Ciee nge add kepo ye..\nThanks for add me..\n\n꧁༺şℎαℎ̿̿ Żαίη࿐➻❥"
 }
 
 protect = {
@@ -547,7 +547,7 @@ def help():
     helpMessage += "║ 🗂🗂🗂🗂🗂🗂🗂🗂🗂 \n"
     helpMessage += "╚═════════════╝\n" 
     helpMessage += "╔═════════════╗\n"
-    helpMessage += "║             S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ\n"
+    helpMessage += "║             ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝\n"
     helpMessage += "╠═════════════╝\n"
     helpMessage += "╠❂➣ ║%i. " % num + key + "Me\n"
     num = (num+1)
@@ -674,7 +674,7 @@ def help():
     helpMessage += "╔═════════════╗\n" 
     helpMessage += "╠❂➣ ║  TEAM BOT PROTECT \n"
     helpMessage += "╠❂➣ ╠═════════⎆\n"
-    helpMessage += "╠❂➣ ║     S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ \n"
+    helpMessage += "╠❂➣ ║     ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥ \n"
     helpMessage += "╚═════════════╝\n" 
     helpMessage += " Creator: https://line.me/ti/p/~teambotprotect \n"
     return helpMessage
@@ -687,11 +687,11 @@ def helpbot():
     helpMessage2+= "║  🗂🗂🗂🗂🗂🗂🗂🗂🗂\n"
     helpMessage2 += "╚═════════════╝\n" 
     helpMessage2+= "╔═════════════╗\n"
-    helpMessage2+= "║             S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ\n"
+    helpMessage2+= "║             ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥\n"
     helpMessage2 += "╠═════════════╝\n"
-    helpMessage2 += "╠❂➣ ║%i. " % num + key + "Crot @\n"
+    helpMessage2 += "╠❂➣ ║%i. " % num + key + "Kick @\n"
     num = (num+1)
-    helpMessage2 += "╠❂➣ ║%i. " % num + key + "Vc @ \n"
+    helpMessage2 += "╠❂➣ ║%i. " % num + key + "Vkick @ \n"
     num = (num+1)
     helpMessage2 += "╠❂➣ ║%i. " % num + key + "Mainkan @\n"
     num = (num+1)
@@ -772,7 +772,7 @@ def helpbot():
     helpMessage2 += "╔═════════════╗\n" 
     helpMessage2 += "╠❂➣ ║  TEAM BOT PROTECT \n"
     helpMessage2 += "╠❂➣ ╠═════════⎆\n"
-    helpMessage2 += "╠❂➣ ║     S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ \n"
+    helpMessage2 += "╠❂➣ ║     ꧁༺şℎαℎ̿̿ Żαίη࿐➻❥ \n"
     helpMessage2 += "╚═════════════╝\n" 
     helpMessage2 += "╔═════════════╗\n"
     helpMessage2+= "║  🗂🗂🗂🗂🗂🗂🗂🗂🗂🗂\n"
@@ -1830,7 +1830,7 @@ def bot(op):
                             if msg._from in owner or msg._from in admin:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
-                                md = "   ⏣⎊ S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ ⎊⏣\n\n"
+                                md = "   ⏣⎊꧁༺şℎαℎ̿̿ Żαίη࿐➻❥⎊⏣\n\n"
                                 if wait["sticker"] == True: md+="【✔】Sticker\n"
                                 else: md+="【✘】Sticker\n"
                                 if wait["contact"] == True: md+="【✔】Contact\n"
@@ -2257,7 +2257,7 @@ def bot(op):
                                 except:
                                     pass
 
-                        elif cmd == "stafflist":
+                        elif cmd == "Userlist":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin or msg._from in staff:
                                 ma = ""
@@ -3339,7 +3339,7 @@ def bot(op):
                                     cl.sendMessage(msg.to, "Nonactive\n" + msgs)
 
 #===========KICKOUT============#       
-                        elif ("Crot " in msg.text):
+                        elif ("Kick " in msg.text):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                key = eval(msg.contentMetadata["MENTION"])
@@ -3354,7 +3354,7 @@ def bot(op):
                                        except:
                                            pass
                                            
-                        elif ("Vc " in msg.text):
+                        elif ("Vkick " in msg.text):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                key = eval(msg.contentMetadata["MENTION"])
@@ -3604,11 +3604,11 @@ def bot(op):
                         elif cmd == "autojoin on":
                             if msg._from in owner:
                                 settings["autoJoin"] = True
-                                cl.sendMessage(to, "Berhasil mengaktifkan auto join")
+                                cl.sendMessage(to, "Succeed on auto join")
                         elif cmd == "autojoin off":
                             if msg._from in owner:	
                                 settings["autoJoin"] = False
-                                cl.sendMessage(to, "Berhasil menonaktifkan auto join")
+                                cl.sendMessage(to, "Disabled auto join")
                         elif cmd == "autoblock on":
                            if msg._from in owner:
                                 settings["autoBlock"] = True
@@ -3768,13 +3768,13 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                 wait["autoJoin"] = True
-                                cl.sendMessage(msg.to,"Autojoin diaktifkan")
+                                cl.sendMessage(msg.to,"Autojoin Enabled")
 
                         elif cmd == "autojoin off" or text.lower() == 'autojoin off':
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                 wait["autoJoin"] = False
-                                cl.sendMessage(msg.to,"Autojoin dinonaktifkan")
+                                cl.sendMessage(msg.to,"Autojoin Disabled")
 
                         elif cmd == "autoleave on" or text.lower() == 'autoleave on':
                           if wait["selfbot"] == True:
@@ -3943,7 +3943,7 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in owner:
                               if wait["blacklist"] == {}:
-                                    cl.sendMessage(msg.to,"Tidak ada blacklist")
+                                    cl.sendMessage(msg.to,"Blacklist is Empty")
                               else:
                                     ma = ""
                                     for i in wait["blacklist"]:
@@ -4026,7 +4026,7 @@ def bot(op):
                                cl.sendMessage(msg.to, "「Sider Msg」\nSider Msg mu :\n\n「 " + str(wait["mention"]) + " 」")
 
 #===========JOIN TICKET============#
-                        elif "/ti/g/" in msg.text.lower():
+                        elif "Link" in msg.text.lower():
                           if wait["selfbot"] == True:
                             if msg._from in admin or msg._from in owner:
                               if settings["autoJoinTicket"] == True:
